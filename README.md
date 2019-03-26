@@ -1,7 +1,7 @@
 # gosaml2
 
-[![Build Status](https://travis-ci.org/russellhaering/gosaml2.svg?branch=master)](https://travis-ci.org/russellhaering/gosaml2)
-[![GoDoc](https://godoc.org/github.com/russellhaering/gosaml2?status.svg)](https://godoc.org/github.com/russellhaering/gosaml2)
+[![Build Status](https://travis-ci.org/bluearchive/gosaml2.svg?branch=master)](https://travis-ci.org/bluearchive/gosaml2)
+[![GoDoc](https://godoc.org/github.com/bluearchive/gosaml2?status.svg)](https://godoc.org/github.com/bluearchive/gosaml2)
 
 SAML 2.0 implemementation for Service Providers based on [etree](https://github.com/beevik/etree)
 and [goxmldsig](https://github.com/russellhaering/goxmldsig), a pure Go
@@ -12,7 +12,7 @@ implementation of XML digital signatures.
 Install `gosaml2` into your `$GOPATH` using `go get`:
 
 ```
-go get github.com/russellhaering/gosaml2
+go get github.com/bluearchive/gosaml2
 ```
 
 ## Example
